@@ -44,14 +44,14 @@ const gannie = {
   "id": 4,
   "email": "gmartinson@illinois.edu",
   "name": "Gannie",
-  "gender": M
+  "gender": "M"
 }
 
 const antonietta = {
   "id": 5,
   "email": "adaine@samsung.com",
   "name": Antonietta,
-  "gender": F 
+  "gender": "F" 
 }
 // ==== Challenge 2: Reading Object Data ====
 // Once your objects are created, log out the following requests from HR into the console:
