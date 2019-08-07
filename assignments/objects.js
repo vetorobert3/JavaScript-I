@@ -50,8 +50,8 @@ const gannie = {
 const antonietta = {
   "id": 5,
   "email": "adaine@samsung.com",
-  "name": Antonietta,
-  "gender": "F" 
+  "name": "Antonietta",
+  "gender": "F"
 }
 // ==== Challenge 2: Reading Object Data ====
 // Once your objects are created, log out the following requests from HR into the console:
